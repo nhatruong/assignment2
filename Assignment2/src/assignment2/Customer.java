@@ -9,7 +9,7 @@
 package assignment2;
 
 import java.util.ArrayList;
-
+//this is add from local
 public class Customer {
 	private String customerName;
 	private ArrayList<Pizza> orderedPizza= new ArrayList<Pizza>();
